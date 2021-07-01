@@ -18,3 +18,6 @@ git clone https://github.com/nesherson/confessions-clone-backend.git
 cd confessions-clone-backend
 npm install
 ```
+## License
+
+This project is licensed under the [MIT License](https://github.com/nesherson/confessions-clone-backend/blob/master/LICENSE) - see the LICENSE.md file for details.
